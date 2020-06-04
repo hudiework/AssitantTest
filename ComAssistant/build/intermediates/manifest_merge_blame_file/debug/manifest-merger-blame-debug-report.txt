@@ -1,0 +1,31 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.bjw.ComAssistant"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <application android:label="@string/app_name" >
+7-->E:\2020STB\ComTest\ComAssistant\AndroidManifest.xml:7:5-19:19
+7-->E:\2020STB\ComTest\ComAssistant\AndroidManifest.xml:8:9-41
+8        <activity
+8-->E:\2020STB\ComTest\ComAssistant\AndroidManifest.xml:9:9-18:20
+9            android:name="com.bjw.ComAssistant.ComAssistantActivity"
+9-->E:\2020STB\ComTest\ComAssistant\AndroidManifest.xml:11:13-49
+10            android:configChanges="orientation|keyboard"
+10-->E:\2020STB\ComTest\ComAssistant\AndroidManifest.xml:12:13-57
+11            android:label="@string/app_name" >
+11-->E:\2020STB\ComTest\ComAssistant\AndroidManifest.xml:10:13-45
+12            <intent-filter>
+12-->E:\2020STB\ComTest\ComAssistant\AndroidManifest.xml:13:13-17:29
+13                <action android:name="android.intent.action.MAIN" />
+13-->E:\2020STB\ComTest\ComAssistant\AndroidManifest.xml:14:17-69
+13-->E:\2020STB\ComTest\ComAssistant\AndroidManifest.xml:14:25-66
+14
+15                <category android:name="android.intent.category.LAUNCHER" />
+15-->E:\2020STB\ComTest\ComAssistant\AndroidManifest.xml:16:17-77
+15-->E:\2020STB\ComTest\ComAssistant\AndroidManifest.xml:16:27-74
+16            </intent-filter>
+17        </activity>
+18    </application>
+19
+20</manifest>

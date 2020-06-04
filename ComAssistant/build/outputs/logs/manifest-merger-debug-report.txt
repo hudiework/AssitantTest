@@ -1,0 +1,45 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\2020STB\ComTest\ComAssistant\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\2020STB\ComTest\ComAssistant\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\2020STB\ComTest\ComAssistant\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\2020STB\ComTest\ComAssistant\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\2020STB\ComTest\ComAssistant\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\2020STB\ComTest\ComAssistant\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\2020STB\ComTest\ComAssistant\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from E:\2020STB\ComTest\ComAssistant\AndroidManifest.xml:3:5-35
+		INJECTED from E:\2020STB\ComTest\ComAssistant\AndroidManifest.xml
+		INJECTED from E:\2020STB\ComTest\ComAssistant\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\2020STB\ComTest\ComAssistant\AndroidManifest.xml:5:5-30
+		INJECTED from E:\2020STB\ComTest\ComAssistant\AndroidManifest.xml
+		INJECTED from E:\2020STB\ComTest\ComAssistant\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\2020STB\ComTest\ComAssistant\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\2020STB\ComTest\ComAssistant\AndroidManifest.xml:4:5-28
+		INJECTED from E:\2020STB\ComTest\ComAssistant\AndroidManifest.xml
+		INJECTED from E:\2020STB\ComTest\ComAssistant\AndroidManifest.xml
+application
+ADDED from E:\2020STB\ComTest\ComAssistant\AndroidManifest.xml:7:5-19:19
+	android:label
+		ADDED from E:\2020STB\ComTest\ComAssistant\AndroidManifest.xml:8:9-41
+activity#com.bjw.ComAssistant.ComAssistantActivity
+ADDED from E:\2020STB\ComTest\ComAssistant\AndroidManifest.xml:9:9-18:20
+	android:label
+		ADDED from E:\2020STB\ComTest\ComAssistant\AndroidManifest.xml:10:13-45
+	android:configChanges
+		ADDED from E:\2020STB\ComTest\ComAssistant\AndroidManifest.xml:12:13-57
+	android:name
+		ADDED from E:\2020STB\ComTest\ComAssistant\AndroidManifest.xml:11:13-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\2020STB\ComTest\ComAssistant\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from E:\2020STB\ComTest\ComAssistant\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from E:\2020STB\ComTest\ComAssistant\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\2020STB\ComTest\ComAssistant\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from E:\2020STB\ComTest\ComAssistant\AndroidManifest.xml:16:27-74

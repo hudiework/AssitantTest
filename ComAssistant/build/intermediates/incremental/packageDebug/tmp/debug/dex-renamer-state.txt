@@ -1,0 +1,4 @@
+#Thu Jun 04 14:42:34 CST 2020
+base.0=E\:\\workspace\\learn\\ComAssistant\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
